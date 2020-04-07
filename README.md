@@ -8,7 +8,7 @@
 	7. click the blue button that says "Get Code"
 	8. on the top, click IFrame
 	9. copy the given code
-	10. open folder "src"
+	10. open folder "pages"
 	11. open "blog.html"
 	12. find "<div class="blog-posts-desktop">" (hint: you can use ctrl + F to find it)
 	13. move your cursor to the right side of "<div class="blog-posts-desktop">"
@@ -16,8 +16,4 @@
 	15. type <div> </div>
 	16. paste the code between <div> and </div>
 	17. save this file
-<<<<<<< HEAD
-	18. upload this file to the folder named "src".
-=======
-	18. upload this file to the folder named "src".
->>>>>>> submission commit
+	18. upload this file to the folder named "pages".
